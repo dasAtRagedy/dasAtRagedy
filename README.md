@@ -1,8 +1,8 @@
-Hi! I'm David, a Vilnius University student.
-I'm currently learning Python3, C, C++
-I'm interested in competitive programming, VR and AR technologies
-This account will primarily be used for saving my code from university courses and programming challenges
-You can reach me using this email address: 22Dunix {at} gmail {dot} com 👀
+<h2>Hi! I'm David, a Vilnius University student.</h2>
+- I'm currently learning Python3, C, C++<br>
+- I'm interested in competitive programming, VR and AR technologies<br>
+- This account will primarily be used for saving my code from university courses and programming challenges<br>
+- You can reach me using this email address: 22Dunix {at} gmail {dot} com 👀<br><br>
 Cya on the battlefield, coder!
 <!---
 - 👋 Hi, I’m @dasAtRagedy
