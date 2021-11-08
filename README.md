@@ -2,7 +2,7 @@
 - I'm currently learning Python3, C, C++<br>
 - I'm interested in competitive programming, software security, VR and AR technologies<br>
 - This account will primarily be used for saving my code from university courses and programming challenges<br>
-- You can reach me using this email address: 22Dunix {at} gmail {dot} com 👀<br><br>
+- You can reach me using this email address: TaiTragedija {at} gmail {dot} com 👀<br><br>
 Cya on the battlefield, coder!
 <!---
 - 👋 Hi, I’m @dasAtRagedy
