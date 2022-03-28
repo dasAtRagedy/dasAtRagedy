@@ -1,6 +1,9 @@
-<h2>Hi! I'm David, a Vilnius University student.</h2>
-- I'm currently learning Python3, C, C++<br>
-- I'm interested in competitive programming, software security, VR and AR technologies<br>
+<h2>Hi, I'm David!</h2>
+- I have most experience in Python3, C and C++<br>
+- Currently invested in Java<br>
+- Interested in competitive programming, software security, VR and AR technologies<br>
+- Currently studying software architecture and development in Vilnius University<br>
+- Planning to enter the programming field in terms of getting a job by the nearest summer<br>
 - You can reach me using this email address: TaiTragedija {at} gmail {dot} com 👀<br><br>
 Cya on the battlefield, coder!
 <!---
