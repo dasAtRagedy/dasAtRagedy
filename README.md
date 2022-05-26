@@ -1,10 +1,10 @@
 <h2>Hi, I'm David!</h2>
-- I have most experience in Python3, C and C++<br>
-- Currently invested in computer networks<br>
-- Interested in competitive programming, software security, VR and AR technologies<br>
-- Currently studying software architecture and development in Vilnius University<br>
-- Planning to enter the programming field in terms of getting a job by the nearest summer<br>
+- Currently studying software engineering (Programų sistemos) in Vilnius University<br>
 - You can reach me using this email address: TaiTragedija {at} gmail {dot} com 👀<br><br>
+
+Give me work, need experience.
+You name it- I make it. I don't know how, but we'll figure that out along the way
+
 Cya on the battlefield, coder!
 <!---
 - 👋 Hi, I’m @dasAtRagedy
