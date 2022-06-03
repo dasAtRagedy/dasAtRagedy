@@ -3,9 +3,6 @@
 - You can reach me using this email address 📫: Deividas {at} Baltuska {dot} lt <br>
 - Alternatively, you can use 📫: TaiTragedija {at} gmail {dot} com <br><br>
 
-Give me work, need experience.
-You name it- I make it. I don't know how, but we'll figure that out along the way
-
 Cya on the battlefield, coder!
 <!---
 - 👋 Hi, I’m @dasAtRagedy
