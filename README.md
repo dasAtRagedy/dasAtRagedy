@@ -1,7 +1,6 @@
 <h2>Hi, I'm David!</h2>
 - Currently studying software engineering (Programų sistemos) in Vilnius University<br>
-- You can reach me using this email address 📫: Deividas {at} Baltuska {dot} lt <br>
-- Alternatively, you can use 📫: TaiTragedija {at} gmail {dot} com <br><br>
+- You can reach me using this email address 📫: TaiTragedija {at} gmail {dot} com <br><br>
 
 Cya on the battlefield, coder!
 <!---
